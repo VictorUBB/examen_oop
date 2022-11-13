@@ -1,0 +1,28 @@
+2
+scriere
+Ion 
+closed
+5
+aFDDS
+tudor 
+inprogress
+1
+citire
+dan ion 
+inprogress
+6
+dad
+dan andrei ionu ion 
+open
+8
+afdsg
+andrei 
+open
+4
+aasas
+dan 
+open
+3
+scrie
+dan ionut 
+closed

@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>examen_oopClass</class>
+ <widget class="QWidget" name="examen_oopClass" >
+  <property name="objectName" >
+   <string notr="true">examen_oopClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>examen_oop</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="examen_oop.qrc"/>
+ </resources>
+ <connections/>
+</UI>
